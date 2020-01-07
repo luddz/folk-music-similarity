@@ -1,0 +1,62 @@
+[
+    {
+        "transcription": "A F D C F G | A F D B c d | e d c B G F | E F G F E C | B A F C F G | A F D A B c | C F G c B A | G F E F 3 :| f 2 d e 2 f | g f e b e d | c d e g 2 a | b 2 e g f e | f 2 f e 2 B | A G A B 2 B | c d e d B d | c B E F G A :|",
+        "key": "Cmin",
+        "meter": "6/8",
+        "id": 241231
+    },
+    {
+        "transcription": "|: G > c c > B G > B F > B | G > c c 2 a > c g > c | G > c c > B G > F G > A | B 2 d > B _e > B d > B | G > c c > B G > B F > B | G > c c 2 a > c g > c | G > c c > B G > F G > A | B > c d > f f > d B > d |: c 2 g > c a > c g > c | a > c g > c f > d B > d | c 2 g > c a > c g > c | f 2 d > B F > B d > B | c 2 g > c a > c g > c | a > c g > c f > d B > d | g 3 a b 3 g | f 2 d > B F > B d > B |",
+        "key": "Cmix",
+        "meter": "4/4",
+        "id": 359381
+    },
+    {
+        "transcription": "c G c B A B | A G E G E C | c C c B A B | A G E D 3 | c e c B d B | A G E G A c | C 2 E G E C |1 D E D C 2 A /2 B /2 :| |2 D E D C 2 |:  C D E G A B | A G E G E D | C D E G A B | A G E D 2 G, | C D E G A B | A G E G A c | C 2 E G E C |1 D E D C 2 B, :| |2 D E D C 3 |",
+        "key": "Cmaj",
+        "meter": "6/8",
+        "id": 147869
+    },
+    {
+        "transcription": "G A B c B A | G 2 E E D E | F G A d c B | A 2 d d e f | e d c B A G | A G F E D E | A B A G E D | C E A C E E :| F A A c B A | G B d e B c | A G F E D E | c d c B A G | G A B c B A | G A B c B A | d e d c B A | G B A G E C :|",
+        "key": "Cmaj",
+        "meter": "6/8",
+        "id": 110078
+    },
+    {
+        "transcription": "|: C 2 C D E C C E | D C D E F E D C | E G G A c B c A | d c e d c B A G | C 2 C D E C C E | D 2 C D E G G 2 | A c d c A G E G |1 A B c A G E E 2 :| |2 A c B A G 2 G B |: c d e d c 2 A c | A G A B c B c A | G E c E D E D F | E F D C E 2 A B | c d e d c B A B | A B c A G A c d | e 2 d c d B A B |1 G c E D C 2 z B :| |2 G C E D C B, A, B, |",
+        "key": "Cmaj",
+        "meter": "4/4",
+        "id": 273491
+    },
+    {
+        "transcription": "E G C G E G C G | C G E G A A G F | E G C G E G C G | C B, D E F F G F | E G C G E G C G | C G E G A A G F | E F G A B c B A | F B, D F A A G F :| E E G E B E G E | E E G B c e B G | E E G E B E G E | F D B, D F A G F | E E G E B E G E | E E G B c c c d | e f e d c B G B | (3 c d e B G F E C D :|",
+        "key": "Cmin",
+        "meter": "4/4",
+        "id": 136891
+    },
+    {
+        "transcription": "|: e g g e c 2 | d e d c A G | e c d B c G | A _B A G E D :| |: E G G A G 2 | E G G G A /2 B /2 c | E G G A G 2 | d e d c A G :|",
+        "key": "Cmaj",
+        "meter": "9/8",
+        "id": 140522
+    },
+   {
+        "transcription": "| G c c B c d e c | d c B d f d c B | G c c B c d e c |1 d f B d c 2 c B :| |2 d f B d c 2 c d |: e 2 (3 f e d e g f e | d B f B g B f d | e d c d e f g =a | b g f d c 2 :| c' c g c c' c g c | d c B d f d c B |1 c' c g c c' c g c | d c B c d c c 2 :| |2 c d e d e f g a | b g f d c 2 c d :|",
+        "key": "Cmin",
+        "meter": "4/4",
+        "id": 145595
+    },
+    {
+        "transcription": "A, B, C D C A, | C E D C A, G, | A, B, C D C A, | C D B, C A, G, | A, B, C D C A, | C D C C A, G, | D E G A G E | D E C A, G, A, :| G E C G C C | E C C G C C | A B G A c A | G E C D C A, | G E C A C C | G C C G C A, | G A G C E G | D E E C A, G, :|",
+        "key": "Cmaj",
+        "meter": "6/8",
+        "id": 111000
+    },
+    {
+        "transcription": "E F G c A F F 2 | E F G E D C E D | C E G c E F G 2 | G c A F G F E D :| G c c 2 e d c B | A F F 2 G A B d | c B c d e 2 d c | (3 B A G A F G E C 2 | G c c 2 e d c B | A F F 2 A F G 2 | C D E F G c B c | A F F 2 E D C 2 |",
+        "key": "Cmaj",
+        "meter": "4/4",
+        "id": 129506
+    }
+]
